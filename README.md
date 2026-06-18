@@ -4,7 +4,7 @@
 An interactive 3-page **Power BI** dashboard built to analyze the performance, ratings, and review behavior of ~250,000 Airbnb listings across 10 major global cities.
 
 Overview (https://github.com/aayushkofficial2005-max/Airbnb-Dashboard/blob/main/Overview.png)
-Ratings 
+Ratings https://github.com/aayushkofficial2005-max/Airbnb-Dashboard/blob/main/Ratings.png
 Reviews
 
 
